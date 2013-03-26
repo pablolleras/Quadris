@@ -1,4 +1,4 @@
 Quadris
 =======
 
-Simple non-real time tetris
+Simple non-real time tetris (By Pablo Lleras and Kevin Logan)
